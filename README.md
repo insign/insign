@@ -17,6 +17,17 @@
 
 ---
 
+## 🌟 Open Source Highlights
+
+- 🎯 **370+ total stars** across personal and organization repositories
+- 📦 **180+ public repositories** of developer tools, libraries, and experiments
+- 🤝 **2,200+ contributions** in the past year
+- 💼 Creator of popular packages like **flyclone**, **xpm**, and **SevenZip**
+- 🔧 Focus on **developer experience**, **automation**, and **productivity tools**
+- 🌍 Contributing to the PHP, Dart, and Laravel ecosystems
+
+---
+
 ## 💭 Philosophy
 
 > *"Beautiful is better than ugly. Explicit is better than implicit. Simple is better than complex."*
@@ -143,17 +154,6 @@ Check out my thoughts and articles at **[helio.me](https://helio.me)**
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
----
-
-## 🌟 Open Source Highlights
-
-- 🎯 **370+ total stars** across personal and organization repositories
-- 📦 **180+ public repositories** of developer tools, libraries, and experiments
-- 🤝 **2,200+ contributions** in the past year
-- 💼 Creator of popular packages like **flyclone**, **xpm**, and **SevenZip**
-- 🔧 Focus on **developer experience**, **automation**, and **productivity tools**
-- 🌍 Contributing to the PHP, Dart, and Laravel ecosystems
 
 ---
 
