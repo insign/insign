@@ -125,7 +125,11 @@
 
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=insign&theme=tokyo-night&hide_border=true)
 
-  ![Snake eating contributions](https://raw.githubusercontent.com/insign/insign/output/github-contribution-grid-snake-tokyonight.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/insign/insign/output/github-contribution-grid-snake-tokyonight.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/insign/insign/output/github-contribution-grid-snake.svg">
+    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/insign/insign/output/github-contribution-grid-snake-tokyonight.svg">
+  </picture>
 
 </div>
 
