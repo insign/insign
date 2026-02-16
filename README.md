@@ -13,16 +13,16 @@
 - 🐦 Twitter: **[@insign](https://twitter.com/insign)**
 - 📧 Email: **gh@helio.me**
 - 🎯 Passionate about creating developer tools, automation scripts, and open-source libraries
-- 🚀 Active contributor since **October 2011** with **2,200+** contributions this year
+- 🚀 Active contributor since **October 2011** with **4,000+** contributions this year
 
 ---
 
 ## 🌟 Open Source Highlights
 
-- 🎯 **370+ total stars** across personal and organization repositories
-- 📦 **180+ public repositories** of developer tools, libraries, and experiments
-- 🤝 **2,200+ contributions** in the past year
-- 💼 Creator of popular packages like **flyclone**, **xpm**, and **SevenZip**
+- 🎯 **480+ total stars** across personal and organization repositories
+- 📦 **185+ public repositories** of developer tools, libraries, and experiments
+- 🤝 **4,000+ contributions** in the past year
+- 💼 Creator of popular packages like **codewalk**, **xpm**, and **SevenZip**
 - 🔧 Focus on **developer experience**, **automation**, and **productivity tools**
 - 🌍 Contributing to the PHP, Dart, and Laravel ecosystems
 
@@ -53,23 +53,24 @@
 
 ## ⭐ Featured Projects
 
-### 🏢 Verseles Organization (Total: ~185⭐)
+### 🏢 Verseles Organization (Total: ~226⭐)
 
 <div align="center">
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [**flyclone**](https://github.com/verseles/flyclone) | ![Stars](https://img.shields.io/github/stars/verseles/flyclone?style=social) | 🚀 PHP wrapper for rclone - Supports Dropbox, FTP, SFTP, Google Drive, MEGA, S3 & more with progress tracking |
-| [**xpm**](https://github.com/verseles/xpm) | ![Stars](https://img.shields.io/github/stars/verseles/xpm?style=social) | 📦 Universal package manager for any unix-like distro (written in Dart) |
+| [**codewalk**](https://github.com/verseles/codewalk) | ![Stars](https://img.shields.io/github/stars/verseles/codewalk?style=social) | 🚀 A native (really fast!!) cross-platform client for OpenCode |
+| [**xpm**](https://github.com/verseles/xpm) | ![Stars](https://img.shields.io/github/stars/verseles/xpm?style=social) | 📦 Universal package manager for any unix-like distro (now in Rust!) |
 | [**SevenZip**](https://github.com/verseles/SevenZip) | ![Stars](https://img.shields.io/github/stars/verseles/SevenZip?style=social) | 🗜️ PHP package for 7zip compression/decompression |
 | [**progressable**](https://github.com/verseles/progressable) | ![Stars](https://img.shields.io/github/stars/verseles/progressable?style=social) | 📊 Laravel package to track progress for tasks/processes |
+| [**showdown**](https://github.com/verseles/showdown) | ![Stars](https://img.shields.io/github/stars/verseles/showdown?style=social) | 🏆 Comprehensive LLM leaderboard aggregating multiple benchmarks into transparent rankings |
 | [**subs.center**](https://github.com/verseles/subs.center) | ![Stars](https://img.shields.io/github/stars/verseles/subs.center?style=social) | 💳 Simple subscriptions manager |
-| [**Possession**](https://github.com/verseles/Possession) | ![Stars](https://img.shields.io/github/stars/verseles/Possession?style=social) | 👤 Laravel user impersonation with Sanctum compatibility |
-| [**dartian**](https://github.com/verseles/dartian) | ![Stars](https://img.shields.io/github/stars/verseles/dartian?style=social) | 🎯 Laravel-inspired Dart framework |
+| [**run**](https://github.com/verseles/run) | ![Stars](https://img.shields.io/github/stars/verseles/run?style=social) | ⚡ One command. Any project. Zero configuration |
+| [**flyclone**](https://github.com/verseles/flyclone) | ![Stars](https://img.shields.io/github/stars/verseles/flyclone?style=social) | 🔄 PHP wrapper for rclone - Supports Dropbox, FTP, SFTP, Google Drive, MEGA, S3 & more |
 
 </div>
 
-### 💻 Personal Projects (Total: ~185⭐)
+### 💻 Personal Projects (Total: ~254⭐)
 
 <div align="center">
 
@@ -80,11 +81,12 @@
 | [**ben**](https://github.com/insign/ben) | ![Stars](https://img.shields.io/github/stars/insign/ben?style=social) | ⚡ Simple benchmarking using shell (DNS, CPU, Disk, Connection) |
 | [**zen-of-python**](https://github.com/insign/zen-of-python) | ![Stars](https://img.shields.io/github/stars/insign/zen-of-python?style=social) | 🐍 The Zen of Python in less than 1024 bytes |
 | [**together**](https://github.com/insign/together) | ![Stars](https://img.shields.io/github/stars/insign/together?style=social) | 📄 Simple binary that joins text/code files together |
+| [**compress_and_compare**](https://github.com/insign/compress_and_compare) | ![Stars](https://img.shields.io/github/stars/insign/compress_and_compare?style=social) | 📊 Simple binary that runs 7z using different formats and levels then compares results |
 | [**integracao-bb**](https://github.com/insign/integracao-bb) | ![Stars](https://img.shields.io/github/stars/insign/integracao-bb?style=social) | 🏦 Library for Banco do Brasil API integration |
 
 </div>
 
-### 🎯 Most Starred Project: **flyclone** with 88⭐
+### 🎯 Most Starred Project: **codewalk** with 92⭐
 
 ---
 
