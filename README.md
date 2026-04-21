@@ -43,9 +43,9 @@
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insign&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=insign&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=insign&theme=tokyonight&hide_border=true)
 
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=insign&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+  ![Trophy](https://trophy.ryglcloud.net/?username=insign&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
