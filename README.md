@@ -39,9 +39,9 @@
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=insign&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  ![GitHub Stats](https://raw.githubusercontent.com/insign/insign/output/github-readme-stats.svg)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insign&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+  ![Top Languages](https://raw.githubusercontent.com/insign/insign/output/github-readme-top-langs.svg)
 
   ![GitHub Streak](https://streak-stats.demolab.com/?user=insign&theme=tokyonight&hide_border=true)
 

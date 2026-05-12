@@ -16,6 +16,22 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Generate github-readme-stats.svg
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&count_private=true
+          path: dist/github-readme-stats.svg
+          token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
+
+      - name: Generate github-readme-top-langs.svg
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&langs_count=8
+          path: dist/github-readme-top-langs.svg
+          token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
+
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
